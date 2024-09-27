@@ -1,0 +1,4 @@
+Building_Type,Construction_Year,Number_of_Floors,Energy_Consumption_Per_SqM,Water_Usage_Per_Building,Waste_Recycled_Percentage,Occupancy_Rate,Indoor_Air_Quality,Smart_Devices_Count,Green_Certified,Maintenance_Resolution_Time,Building_Status,Maintenance_Priority,Energy_Per_SqM,Number_of_Residents,Electricity_Bill
+Residential,1989,12,50,477.6817617,48.41726562,81.81410988,13.78063535,6,0,7.211768251,Under Maintenance,High,174.8357077,360,16408.00877
+Institutional,1980,6,225.7591073,200,46.40551588,45.10899972,10.17777052,10,0,34.13949198,Under Maintenance,High,143.0867849,91,15230.42507
+Industrial,2006,10,98.75592702,200,17.24758534,48.52622473,27.75702562,2,1,6.22461186,Operational,Medium,182.3844269,115,8117.632795
